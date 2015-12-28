@@ -1,0 +1,9 @@
+{
+    "path" : "~/Analisis de datos/Calidad_Aire",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
